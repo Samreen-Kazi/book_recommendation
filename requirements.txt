@@ -1,0 +1,8 @@
+streamlit==0.76.0
+pandas
+scikit-learn==0.22.1
+numpy
+os
+nltk
+string
+re
